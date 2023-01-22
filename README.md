@@ -9,4 +9,4 @@ A basic React Native app using Webview
 ## Run the app
 
 - Android: `npm run android`
-- IOS: `npm run android`
+- IOS: `npm run ios`
