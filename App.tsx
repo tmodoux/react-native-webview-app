@@ -10,7 +10,7 @@ import { WebView } from 'react-native-webview';
 
 function App(): JSX.Element {
   return (
-    <WebView source={{ uri: 'https://www.1000langages.ch/' }} />
+    <WebView source={{ uri: 'http://localhost:8080' }} />
   );
 }
 

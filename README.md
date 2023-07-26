@@ -10,3 +10,9 @@ A basic React Native app using Webview
 
 - Android: `npm run android`
 - IOS: `npm run ios`
+
+## Release APK
+
+- `cd android`
+- `./gradlew assembleRelease`
+- Look in: `android/app/build/outputs/apk/release/app-release.apk`
